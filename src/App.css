@@ -1,5 +1,10 @@
-.App {
-  text-align: center;
+*{
+  margin:0px;
+  padding: 0px;
+}
+
+footer{
+  height: 5vh;
 }
 
 .App-logo {
